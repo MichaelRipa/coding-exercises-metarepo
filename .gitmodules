@@ -1,3 +1,6 @@
 [submodule "ARENA_3.0"]
 	path = ARENA_3.0
 	url = https://github.com/callummcdougall/ARENA_3.0.git
+[submodule "numpy-100"]
+	path = numpy-100
+	url = https://github.com/rougier/numpy-100.git
